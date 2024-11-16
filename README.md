@@ -1,4 +1,7 @@
 ## Hi there 👋
+🔭 I’m Rishab Rath 
+💬 Ask me about Web Developement
+😄 Pronouns: He/Him/His
 
 <!--
 **rishabrath31/rishabrath31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
