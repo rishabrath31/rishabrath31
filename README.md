@@ -2,7 +2,6 @@
 <ul><li>🔭 I’m RIshab Rath
 </li><li>💬 Ask me about Web Developement</li><li>😄 Pronouns: He/Him/His</li>
 </ul>
-![Bhubaneswar, Odisha, India](https://github.com/user-attachments/assets/7e11e6a9-f2fb-477d-b931-391f887b028d)
 
 
 <!--
