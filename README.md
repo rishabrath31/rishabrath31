@@ -3,7 +3,7 @@
 </li><li>💬 Ask me about Web Developement</li><li>😄 Pronouns: He/Him/His</li>
 </ul>
 
-![pexels-leeloothefirst-5723982](https://github.com/user-attachments/assets/a7f6305c-b36b-4c78-9059-90095893bf2f)
+![Bhubaneswar, Odisha, India](https://github.com/user-attachments/assets/23dd7c68-fd9d-46b5-92dc-0ccdd8d993fc)
 
 <!--
 **rishabrath31/rishabrath31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
