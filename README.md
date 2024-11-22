@@ -1,8 +1,9 @@
 ## Hi there 👋
-<ul><li>🔭 I’m RIshab Rath
+<ul><li>🔭 I’m Rishab Rath
 </li><li>💬 Ask me about Web Developement</li><li>😄 Pronouns: He/Him/His</li>
 </ul>
 
+![pexels-leeloothefirst-5723982](https://github.com/user-attachments/assets/a7f6305c-b36b-4c78-9059-90095893bf2f)
 
 <!--
 **rishabrath31/rishabrath31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
