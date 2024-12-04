@@ -2,8 +2,8 @@
 <ul><li>🔭 I’m Rishab Rath
 </li><li>💬 Ask me about Web Developement</li><li>😄 Pronouns: He/Him/His</li>
 </ul>
+![SOFTWARE ENGINEER (1)](https://github.com/user-attachments/assets/259ea39f-a000-48fa-80d0-9efbb85f40e9)
 
-![SOFTWARE ENGINEER](https://github.com/user-attachments/assets/442107bb-697f-473f-897f-8a7bcfd185b8)
 
 <!--
 **rishabrath31/rishabrath31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
