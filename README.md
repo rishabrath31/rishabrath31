@@ -3,9 +3,6 @@
 </li><li>💬 Ask me about Web Developement</li><li>😄 Pronouns: He/Him/His</li>
 </ul>
 
-![Bhubaneswar, Odisha, India](https://github.com/user-attachments/assets/23dd7c68-fd9d-46b5-92dc-0ccdd8d993fc)
-
-
 ![SOFTWARE ENGINEER](https://github.com/user-attachments/assets/442107bb-697f-473f-897f-8a7bcfd185b8)
 
 <!--
