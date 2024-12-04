@@ -2,7 +2,9 @@
 <ul><li>🔭 I’m Rishab Rath
 </li><li>💬 Ask me about Web Developement</li><li>😄 Pronouns: He/Him/His</li>
 </ul>
-![SOFTWARE ENGINEER (1)](https://github.com/user-attachments/assets/259ea39f-a000-48fa-80d0-9efbb85f40e9)
+
+![SOFTWARE ENGINEER (1)](https://github.com/user-attachments/assets/08a1d495-f67a-4805-9deb-8a84d72c5a29)
+
 
 
 <!--
