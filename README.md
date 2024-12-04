@@ -5,6 +5,9 @@
 
 ![Bhubaneswar, Odisha, India](https://github.com/user-attachments/assets/23dd7c68-fd9d-46b5-92dc-0ccdd8d993fc)
 
+
+![SOFTWARE ENGINEER](https://github.com/user-attachments/assets/442107bb-697f-473f-897f-8a7bcfd185b8)
+
 <!--
 **rishabrath31/rishabrath31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
