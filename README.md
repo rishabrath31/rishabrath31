@@ -3,7 +3,7 @@
 </li><li>💬 Ask me about Web Developement</li><li>😄 Pronouns: He/Him/His</li>
 </ul>
 
-(https://github.com/user-attachments/assets/c9ac3aee-3303-41e7-8884-4b55efda1777)
+![Alt text for the image](https://github.com/user-attachments/assets/c9ac3aee-3303-41e7-8884-4b55efda1777)
 
 
 
