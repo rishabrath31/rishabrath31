@@ -2,8 +2,8 @@
 <ul><li>🔭 I’m Rishab Rath
 </li><li>💬 Ask me about Web Developement</li><li>😄 Pronouns: He/Him/His</li>
 </ul>
-![rishab](https://github.com/user-attachments/assets/9a5f5d97-7f66-4785-bde2-a9f356f367bb)
 
+(https://github.com/user-attachments/assets/c9ac3aee-3303-41e7-8884-4b55efda1777)
 
 
 
