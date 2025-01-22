@@ -6,7 +6,8 @@
   <li>😄 Pronouns: He/Him/His</li>
 </ul>
 
-![Rishab Rath](https://raw.githubusercontent.com/your-username/your-repository/main/assets/banner.png)
+![Rishab Rath (1)](https://github.com/user-attachments/assets/f64aeafb-154f-4c62-b4fd-554bb4fe1779)
+
 
 <!--
 **rishabrath31/rishabrath31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
