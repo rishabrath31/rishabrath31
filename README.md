@@ -38,13 +38,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=rishabrath31&theme=default&background=FFFFFF&ring=E11D48&fire=E11D48&currStreakLabel=E11D48&sideLabels=111827&currStreakNum=111827&sideNums=111827&dates=999999&border=eeeeee&border_radius=10" />
-  <img width="49%" src="https://gh-stats-x.vercel.app/api?username=rishabrath31&show_icons=true&bg_color=fff&title_color=E11D48&icon_color=E11D48&text_color=111827&border_color=eee&border_radius=10&count_private=true" />
-</p>
-
-<p align="center">
-  <!-- Language breakdown via wakatime alternative -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabrath31&layout=compact&bg_color=fff&title_color=E11D48&text_color=111827&border_color=eee&border_radius=10&hide_border=false&langs_count=8" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=rishabrath31&theme=default&background=FFFFFF&ring=E11D48&fire=E11D48&currStreakLabel=E11D48&sideLabels=111827&currStreakNum=111827&sideNums=111827&dates=999999&border=eeeeee&border_radius=10" />
 </p>
 
 ---
@@ -73,11 +67,11 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/_rishab_rath_">
+  <a href="https://linkedin.com/in/rishabrath31">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/rishabrath31">
+  <a href="https://instagram.com/_rishab_rath_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   &nbsp;
